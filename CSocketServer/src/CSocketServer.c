@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Name        : CSocketServer.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Author      : Peter Hense
+ Version     : 0.1a
+ Copyright   : (c) by Peter Hense 2014 - 2017 GPL v2 or higher
+ Description : Socket Server Linux
  ============================================================================
  */
 
